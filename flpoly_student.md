@@ -1,4 +1,4 @@
-Kaitlyn Scheppa
+## Kaitlyn Scheppa
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
@@ -7,12 +7,7 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 
 - Intro to Data Science
 
-
-**Hobbies:**
-
-I am _passionate about_: 
-
-- Disney
-
-- Dogs
- 
+|:----------:|:----------:|:----------:|:----------:|
+|# Prefix    |# Number    |# Name      |# Credits   |
+| **COP**    | **2073**   | _Introduction to Data Science_| 3 |
+| **COP**    | **4935**   | _Senior Design 2_ | 3   | 
